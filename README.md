@@ -1,2 +1,0 @@
-# Miistore-nevi
-echo-print
